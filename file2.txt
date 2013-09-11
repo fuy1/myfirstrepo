@@ -1,2 +1,2 @@
-some master2-2
+some master2-2merged
 random text
